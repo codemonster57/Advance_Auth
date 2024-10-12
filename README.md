@@ -1,9 +1,8 @@
-<h1 align="center">Advanced Auth Tutorial 🔒 </h1>
-
-![Demo App](/frontend/public/screenshot-for-readme.png)
+<h1 align="center">Advanced Auth🔒 </h1>
 
 
-About This Course:
+
+About :
 
 -   🔧 Backend Setup
 -   🗄️ Database Setup
@@ -55,4 +54,4 @@ npm run build
 npm run start
 ```
 
-### I'll see you in the next one! 🚀
+
